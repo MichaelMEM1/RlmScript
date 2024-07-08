@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelMEM1/Rlm/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelMEM1/RlmScript/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/MichaelMEM1/Rlm/HEAD
+https://mybinder.org/v2/gh/MichaelMEM1/RlmScript/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
